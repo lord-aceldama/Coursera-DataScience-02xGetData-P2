@@ -38,7 +38,7 @@ This is a repository for project 2 of the Getting and Cleaning Data Coursera cou
 
   2. Pass the path as a parameter to the analyze() function (eg. analyze("./UCI HAR Dataset"))
 
-2. The code will now run and tell you what it's doing while it's doing it, but in a nutshell it perfors the following actions:
+2. The script will now run, tellling you what it's doing as it does it, but in a nutshell it performs the following actions:
 
   1. Merges the training and the test sets to create one data set.
     
