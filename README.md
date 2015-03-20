@@ -38,7 +38,19 @@ This is a repository for project 2 of the Getting and Cleaning Data Coursera cou
 
   2. Pass the path as a parameter to the analyze() function (eg. analyze("./UCI HAR Dataset"))
 
-2. After successful completion of the script, 2 files will be created:
+2. The code will now run and tell you what it's doing while it's doing it, but in a nutshell it perfors the following actions:
+
+  1. Merges the training and the test sets to create one data set.
+    
+  2. Extracts only the measurements on the mean and standard deviation for each measurement. 
+  
+  3. Uses descriptive activity names to name the activities in the data set
+  
+  4. Appropriately labels the data set with descriptive variable names. 
+  
+  5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+  
+3. After successful completion of the script, 2 files will be created:
 
   1. ./data-cleaned.txt (Contains the merged data from the training and test sets, as well as the corresponding tidy labels.)
 
