@@ -8,7 +8,8 @@ This is a repository for project 2 of the Getting and Cleaning Data Coursera cou
 
 ## Setting Up
 
-1. Unzip the data file from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and save it to your computer (eg. your Desktop).
+1. Download the following file and save it to your computer (eg. your Desktop):
+  * https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 2. Extract it using a decompression program like 7zip. Remember this directory, you'll need it later. During the extraction, a folder named "./UCI HAR Dataset" will be created containing some data which is for information purposes only along with the following 8 essential files without which the script will fail:
 
